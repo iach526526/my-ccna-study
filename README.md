@@ -1,7 +1,7 @@
 # my-ccna-study
  
 ----
-hey,guys!This repository is used for record my CCNA study.There are some resources like video,document and note.
+hey,guys!This repository is used for record my CCNA study.I was passed CCNA on 07.September.2023.There are some resources like video,document and note.
 
 ## video
 - [Jeremy's IT Lab](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
